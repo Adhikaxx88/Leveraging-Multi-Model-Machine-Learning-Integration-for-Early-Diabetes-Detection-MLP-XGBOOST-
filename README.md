@@ -1,0 +1,2 @@
+# Leveraging-Multi-Model-Machine-Learning-Integration-for-Early-Diabetes-Detection-MLP-XGBOOST-
+This project presents a scalable stacking ensemble model for early diabetes risk detection using 96,146 clinical records. By combining XGBoost, MLP, and Logistic Regression, the model achieved 97.0% accuracy and an AUROC of 0.85, demonstrating strong predictive performance and reliability for early clinical screening.
